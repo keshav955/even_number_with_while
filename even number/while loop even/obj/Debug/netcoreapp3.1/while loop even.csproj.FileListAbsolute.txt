@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\even number\while loop even\bin\Debug\netcoreapp3.1\while loop even.exe
+C:\Users\Lenovo\source\repos\even number\while loop even\bin\Debug\netcoreapp3.1\while loop even.deps.json
+C:\Users\Lenovo\source\repos\even number\while loop even\bin\Debug\netcoreapp3.1\while loop even.runtimeconfig.json
+C:\Users\Lenovo\source\repos\even number\while loop even\bin\Debug\netcoreapp3.1\while loop even.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\even number\while loop even\bin\Debug\netcoreapp3.1\while loop even.dll
+C:\Users\Lenovo\source\repos\even number\while loop even\bin\Debug\netcoreapp3.1\while loop even.pdb
+C:\Users\Lenovo\source\repos\even number\while loop even\obj\Debug\netcoreapp3.1\while loop even.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\even number\while loop even\obj\Debug\netcoreapp3.1\while loop even.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\even number\while loop even\obj\Debug\netcoreapp3.1\while loop even.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\even number\while loop even\obj\Debug\netcoreapp3.1\while loop even.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\even number\while loop even\obj\Debug\netcoreapp3.1\while loop even.dll
+C:\Users\Lenovo\source\repos\even number\while loop even\obj\Debug\netcoreapp3.1\while loop even.pdb
+C:\Users\Lenovo\source\repos\even number\while loop even\obj\Debug\netcoreapp3.1\while loop even.genruntimeconfig.cache
